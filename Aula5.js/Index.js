@@ -16,3 +16,5 @@ console.log(numero)
  resultado = (-b + resposta)/(2*a)
 
  console.log ("o resultado é", resultado)
+
+ 
